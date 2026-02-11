@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tanta\\OneDrive\\Desktop\\visual studio\\max_array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83DCE0FE-E1BF-425E-836F-C69B0ED2F7EB}|max_array.vcxproj|C:\\Users\\tanta\\OneDrive\\Desktop\\visual studio\\max_array\\max_array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83DCE0FE-E1BF-425E-836F-C69B0ED2F7EB}|max_array.vcxproj|solutionrelative:max_array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "max_array.cpp",
+              "DocumentMoniker": "C:\\Users\\tanta\\OneDrive\\Desktop\\visual studio\\max_array\\max_array.cpp",
+              "RelativeDocumentMoniker": "max_array.cpp",
+              "ToolTip": "C:\\Users\\tanta\\OneDrive\\Desktop\\visual studio\\max_array\\max_array.cpp",
+              "RelativeToolTip": "max_array.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-11T11:25:15.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
